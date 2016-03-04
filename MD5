@@ -1,8 +1,9 @@
-ac6a247283879de13f1f827471ec28d7 *DESCRIPTION
+6a85c672237f0fe9d9a60db486a27c33 *DESCRIPTION
 78175506ab79be2bbf5136a8ea9e9485 *LICENSE
 cc75ae67fc566f41129fd7c01441550a *NAMESPACE
-00b8063a08f8ddce3b2aada0e3754daf *R/viridis.R
-70680798b38ae3a462dba487bf2d8278 *README.md
+17700e0ae96ac039caa4a01c5140293f *R/viridis.R
+c9591f6ee2a7f8af7b7824fb66a40262 *README.md
 903da03b8b1acb114f248e479f8637df *data/viridis.map.rda
-f74a91dfc0a495a6844a5ced4cc2409e *man/viridis.Rd
+3573b8b3513698bf5e6a6182ee93b126 *man/figures/viridis-scales.png
+7f621ab7fae8c3b86d7a2f6ce5d05023 *man/viridis.Rd
 698f57d72f38ab613f8cc75648646806 *man/viridis.map.Rd
