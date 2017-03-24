@@ -1,7 +1,11 @@
 # viridisLite
 
-[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/viridisLite)](https://github.com/metacran/cranlogs.app)
-[![cran version](http://www.r-pkg.org/badges/version/viridisLite)](http://cran.rstudio.com/web/packages/viridisLite)
+[![cran version](http://www.r-pkg.org/badges/version/viridisLite)](https://cran.r-project.org/package=viridisLite)
+[![rstudio mirror per-month downloads](http://cranlogs.r-pkg.org/badges/viridisLite)](https://github.com/metacran/cranlogs.app)
+[![rstudio mirror total downloads](http://cranlogs.r-pkg.org/badges/grand-total/viridisLite?color=yellowgreen)](https://github.com/metacran/cranlogs.app)
+[![Travis-CI Build Status](https://travis-ci.org/hrbrmstr/viridisLite.svg?branch=master)](https://travis-ci.org/hrbrmstr/viridisLite)
+[![Coverage Status](https://img.shields.io/codecov/c/github/hrbrmstr/viridisLite/master.svg)](https://codecov.io/github/hrbrmstr/viridisLite?branch=master)
+
 
 [Matplotlib](http://matplotlib.org/) recently [introduced new color maps]
 (http://matplotlib.org/style_changes.html) for their graphs. They are called
@@ -35,7 +39,7 @@ AND... they are now available for R!
 
 #### Installation
 
-`viridisLite 0.1.2` is now [available on CRAN](https://cran.r-project.org/package=viridisLite).  
+`viridisLite 0.1.3` is now [available on CRAN](https://cran.r-project.org/package=viridisLite).  
 You can install it using RStudio package manager or by typing the following line
 in your R terminal:
 
