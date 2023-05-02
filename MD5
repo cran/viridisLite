@@ -1,10 +1,10 @@
-a95d371f4c69bc99356e3543f1214c25 *DESCRIPTION
+354ce06dbe0611d0ed5fff3be2e16a39 *DESCRIPTION
 78175506ab79be2bbf5136a8ea9e9485 *LICENSE
 c11e38f547e4223dd44eac619926cf1b *NAMESPACE
-a8de197751bfeaf00ebbdc595c7c931a *NEWS.md
+b3c416ddea93ea1ab2a76e33766e4095 *NEWS.md
 45b41cc05f4ab3ab9fe22174965362d5 *R/viridis.R
 89800caed63023530ff086e1c887836a *R/zzz.R
-df4e4e7b4c0a0449382fe9cba1a5bc3e *inst/CITATION
+ba2e343e82ad0b13a7e841f6fa199797 *inst/CITATION
 400e46aee96bf2c6fec0a1b03e859a54 *man/figures/logo.png
 86ed1912cfb40ad8396f0ec18653874a *man/figures/maps.png
 4141bf09efedb07522b1ab9fd2b668ec *man/figures/viridis-scales.png
